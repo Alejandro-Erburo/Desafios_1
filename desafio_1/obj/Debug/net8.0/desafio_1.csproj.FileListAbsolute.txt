@@ -40,3 +40,4 @@
 /Users/alejandro/RiderProjects/Desafios_1/desafio_1/obj/Debug/net8.0/desafio_1.pdb
 /Users/alejandro/RiderProjects/Desafios_1/desafio_1/obj/Debug/net8.0/desafio_1.genruntimeconfig.cache
 /Users/alejandro/RiderProjects/Desafios_1/desafio_1/obj/Debug/net8.0/ref/desafio_1.dll
+/Users/alejandro/RiderProjects/Desafios_1/desafio_1/obj/Debug/net8.0/desafio_1.sourcelink.json
