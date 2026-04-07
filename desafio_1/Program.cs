@@ -154,6 +154,14 @@ public class Functions
         
         return result;
     }
+
+    public void PrintListInt(List<int> list)
+    {
+        foreach (var value in list)
+        {
+            Console.Write(value + ", ");
+        }
+    }
     
     //desafio 6
     public bool IsAPangram(string text)
@@ -335,7 +343,7 @@ class Program
         Console.WriteLine(f.Sum2Dice(10));
         Console.WriteLine();
         Console.WriteLine("Cantidad de veces que sale cada cara en un dado");
-        Console.WriteLine(f.FaceCounter(30));
+        f.PrintListInt(f.FaceCounter(30));
         Console.WriteLine();
 
         //desafio 6
