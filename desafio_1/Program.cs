@@ -334,6 +334,9 @@ class Program
         Console.WriteLine("Sum 2 Dice:");
         Console.WriteLine(f.Sum2Dice(10));
         Console.WriteLine();
+        Console.WriteLine("Cantidad de veces que sale cada cara en un dado");
+        Console.WriteLine(f.FaceCounter(30));
+        Console.WriteLine();
 
         //desafio 6
         Console.WriteLine("Pangram:");
